@@ -15,4 +15,4 @@ For over 40 years we have provided world-class technology system integration sol
 - [Contact Us](https://www.contecamericas.com/contact)
 - [About Us](https://www.contecamericas.com/about)
 
-[LinkedIn](https://www.linkedin.com/company/contecamericas/) | [YouTube](https://www.youtube.com/user/contecdtx)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/contecamericas/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/user/contecdtx) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/contecamericas/) [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/contecamericas)
