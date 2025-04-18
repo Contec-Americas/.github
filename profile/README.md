@@ -10,9 +10,7 @@ For over 40 years we have provided world-class technology system integration sol
 
 - [Official Website](https://www.contecamericas.com)
 - [Products](https://www.contecamericas.com/products)
-- [eShop](https://eshop.contecamericas.com/)
-- [Support](https://www.contecamericas.com/support)
-- [Contact Us]([https://www.contecamericas.com/contact](https://eshop.contecamericas.com/pages/contact-us))
-- [About Us](https://www.contecamericas.com/about)
+- [Contact Us](https://eshop.contecamericas.com/pages/contact-us)
+- [About Us](https://eshop.contecamericas.com/pages/about-us)
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/contecamericas/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/user/contecdtx) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/contecamericas/) [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/contecamericas)
